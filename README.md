@@ -4,10 +4,10 @@ This project aims to create a social media platform that allows food and drink r
 ## Architecture
 The system will consist of a React-based client web application and a Java-based REST API. This will allow both online applications and mobile applications to access the platform. The following technologies will be used:
 
-> React
-> Java
-> Spring Boot
-> OAuth
+- React
+- Java
+- Spring Boot
+- OAuth
 
 ## Features
 The platform will have the following features:
