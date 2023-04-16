@@ -1,6 +1,8 @@
 # Social Media Platform for Food and Drink Reviews
 This project aims to create a social media platform that allows food and drink reviewers to discuss their culinary adventures. The platform will provide tools for posting, modifying, and removing content, as well as profiles, user following, liking and commenting on content, notifications, and OAuth-based authentication.
 
+https://docs.google.com/document/d/1oDpJ-6RgwA0wydMijEg23KXSGJlrPUf25Q0USsgh-tU/edit#heading=h.wbox5im2uve8
+
 ## Architecture
 The system will consist of a React-based client web application and a Java-based REST API. This will allow both online applications and mobile applications to access the platform. The following technologies will be used:
 
