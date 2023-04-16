@@ -1,0 +1,9 @@
+{
+    "_id": "<ObjectId>",
+    "username": "<string>",
+    "email": "<string>",
+    "password": "<string>",
+    "social_login": "<string>",
+    "created_at": "<Date>",
+    "updated_at": "<Date>"
+}
