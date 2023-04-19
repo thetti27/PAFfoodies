@@ -1,0 +1,10 @@
+/*
+{
+    "_id": "<ObjectId>",
+    "user_id": "<ObjectId>",
+    "post_id": "<ObjectId>",
+    "content": "<string>",
+    "created_at": "<Date>",
+    "updated_at": "<Date>"
+}
+*/
