@@ -17,9 +17,15 @@ The platform will have the following features:
 User profiles: 
 
 Users will be able to create profiles that showcase their dining and culinary preferences.
+
 Posting: Users will be able to post their reviews and experiences, including pictures and videos.
+
 Modifying and removing content: Users will be able to modify and delete their posts and comments.
+
 Following: Users will be able to follow other users and receive notifications when they post new content.
+
 Liking and commenting: Users will be able to like and comment on other users' posts.
+
 Notifications: Users will receive notifications when they are followed, liked, or commented on.
+
 OAuth-based authentication: Users will be able to authenticate using popular social media platforms like Google and Facebook.
